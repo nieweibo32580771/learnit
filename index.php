@@ -14,5 +14,5 @@ $c = 1497448451;
 echo date('Y-m-d',$a);//2017-06-12
 echo date('Y-m-d',$b);//2017-06-09
 echo date('Y-m-d',$b);//2017-06-14
-我在学习git gui
+echo "this is devs-one"
 ?>
