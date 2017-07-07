@@ -17,5 +17,6 @@ echo date('Y-m-d',$b);//2017-06-14
 echo "this is devs-one"
 echo "changshi checkout "
 if(){}
-if(){}
+as
+
 ?>
