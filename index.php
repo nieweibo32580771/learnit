@@ -20,5 +20,5 @@ echo "one"
 echo "this is devs-one"
 echo "changshi checkout "
 if(){}
-as
+git stash
 ?>
