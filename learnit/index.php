@@ -17,5 +17,7 @@ echo date('Y-m-d',$b);//2017-06-14
 echo "wo zai zhe ni zai na li "
 echo "one"
   echo "2344324"
-  edho '134'
+  echo '134'
+  echo "1234546"
+
 ?>
